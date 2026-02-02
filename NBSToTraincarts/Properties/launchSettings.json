@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NBSToTraincarts": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Logan\\Minecraft Note Block Studio\\Songs\\Whims of Fate.nbs\" \"C:\\Users\\Logan\\Minecraft Note Block Studio\\Songs\\"
+    }
+  }
+}
